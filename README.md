@@ -1,4 +1,4 @@
-MEDICHAT BOT AI
+
 
 ## Introduction
 Brief introduction to your model and its purpose.
